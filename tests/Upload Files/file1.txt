@@ -1,0 +1,5 @@
+{
+"filename":"File1",
+"filetype":"text",
+"size":20
+}

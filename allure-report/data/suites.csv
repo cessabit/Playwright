@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4029","Build-In Reporters","chromium","Sun Mar 02 10:35:23 IST 2025","passed","Sun Mar 02 10:35:27 IST 2025","","36.Allure_Reports.spec.js","",""
+"","5285","MultiOption Dropdown","chromium","Sun Mar 02 10:35:29 IST 2025","passed","Sun Mar 02 10:35:34 IST 2025","","36.Allure_Reports.spec.js","",""
+"","10356","FirstCodegenScript","chromium","Sun Mar 02 11:05:16 IST 2025","broken","Sun Mar 02 11:05:26 IST 2025","","37.Retries.spec.js","",""
+"","1802","Assertions","chromium","Sun Mar 02 10:35:27 IST 2025","passed","Sun Mar 02 10:35:29 IST 2025","","36.Allure_Reports.spec.js","",""

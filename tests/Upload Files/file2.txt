@@ -1,0 +1,5 @@
+{
+"filename":"File2",
+"filetype":"json",
+"size":50
+}
